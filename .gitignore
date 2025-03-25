@@ -1,0 +1,16 @@
+/.idea
+
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.so
+.pytest_cache/
+.mypy_cache/
+
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
